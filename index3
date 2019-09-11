@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<meta charset="UTF-8">
+<body>
+<ul>
+<li>
+<a href="index.html">about me</a>
+</li>
+<li>
+<a href="index.3">hometown scenery</a>
+</li>
+<li>
+<a href="index.4">my resume</a>
+</li>
+</ul>
+<h1>My hometown is Chongqinging</h1>
+<p>Chongqing is a sprawling municipality at the confluence of the Yangtze and Jialing rivers in southwestern China. In the city center, the large, domed Great Hall of the People complex stands above pedestrianized People's Square. On the other side of the square, the Three Gorges Museum features artifacts from the construction of the Three Gorges Dam as well as ancient art.</p>
+<p>Area: 31,776 mi²</p>
+<p>Elevation: 801′</p>
+<p>Population: 30.48 million (2016)</p>
+<p>Weather: 79°F (26°C), Wind S at 4 mph (6 km/h), 86% Humidity</p>
+
+
+<h2>scenery</h2>
+<p>There is an interest thing in Chongqing is that navigation will failuer. Because the terrian is very complex in Chongqing.</p>
+<img src="1.jpeg" alt="hong">
+
+<h2>food</h2>
+<p>Chilies are the most important part of every meal in Chongqing. Almost everyone in Chongqing eats chilies. The most popular food is Chongqing hot pot.</p>
+<img src="2.jpg" alt="hot pot">
+
+<h2>weather</h2>
+<p>The another difficult in Chongqing is the summer! In every summer Chongqing will be very hot, but there still a lot of people eat hot pot in summer! We eat it any season, hahaha.</p>
+<img src="3.jpg" alt="weather">
+</body>
+</html>

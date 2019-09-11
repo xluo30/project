@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<meta charset="UTF-8">
+<body>
+<ul>
+<li>
+<a href="index.html">about me</a>
+</li>
+<li>
+<a href="index.3">hometown scenery</a>
+</li>
+<li>
+<a href="index.4">my resume</a>
+</li>
+</ul>
+<title>Welcome to Xiao resume</title>
+<h1>education</h1>
+<p1>Illinois Institute of Technology - Chicago</p1>
+
+<h1>skill</h1>
+<ul>
+<li>C</li>
+<li>MYSQL</li>
+<li>JAVA</li>
+
+</body>
+</html>
